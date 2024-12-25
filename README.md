@@ -22,6 +22,6 @@ Run Script :--
 
 Run Script :--
 
-    # vim python3-https.py
+    # # python python3-https.py 
 
 Good Luck....    
